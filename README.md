@@ -1,5 +1,9 @@
 # CPSC 310 Project Repository
 
+Final Project Demo:
+https://user-images.githubusercontent.com/38593274/189566083-695c9825-7517-4573-8c84-d392fb4b318d.mp4
+
+
 This repository contains starter code for the class project.
 Please keep your repository private.
 
@@ -37,6 +41,4 @@ In the project folder:
 
 WebStorm should be automatically configured the first time you open the project (WebStorm is a free download through their students program)
 
-
-https://user-images.githubusercontent.com/38593274/189566083-695c9825-7517-4573-8c84-d392fb4b318d.mp4
 

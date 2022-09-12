@@ -1,7 +1,10 @@
 # CPSC 310 Project Repository
 
 Final Project Demo:
-https://user-images.githubusercontent.com/38593274/189566083-695c9825-7517-4573-8c84-d392fb4b318d.mp4
+
+
+https://user-images.githubusercontent.com/38593274/189566177-1275b9f7-05fe-43b1-87af-4a4057de2912.mp4
+
 
 
 This repository contains starter code for the class project.
